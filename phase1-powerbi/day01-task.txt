@@ -1,0 +1,19 @@
+DAY 01 — DATA IN YOUR LIFE
+
+1.Phone Screen Time
+My phone (Android/iOS) automatically tracks how much time I spend on it. This helps me notice which apps I overuse, control my screen time, and avoid using my phone too much at night since it can affect my sleep.
+
+2.Daily Rainfall in Kochi
+Rainfall data is collected by the India Meteorological Department (IMD) using weather stations and satellites. This helps farmers decide when to plant crops, city authorities manage drainage systems, and even helps me decide if I should carry an umbrella.
+
+3.Exam/Test Marks
+My marks are recorded by teachers and my college. This helps me understand which subjects I need to improve, and teachers can identify students who need extra support. It also helps in adjusting the difficulty level of studies.
+
+4.Monthly Electricity Bill
+Electricity usage is tracked by KSEB through meters. This helps me see how much power I’m using, identify appliances that consume more electricity, and try to reduce usage or shift it to better times.
+
+5.Daily Steps
+Apps like Google Fit track my steps using my phone’s sensors. This helps me stay active, set small fitness goals, and notice if I’m being inactive on certain days.
+
+My Personal Data Question:
+Does the time I spend on my phone in the evening actually affect how well I sleep and how active I feel the next day?
