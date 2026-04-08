@@ -1,0 +1,17 @@
+Dataset Name: Student_dataset.csv
+
+Number of rows: 50
+
+Number of columns: 7
+
+Column meanings:
+- StudentID: unique number given to each student
+- Name: name of the student
+- Age: age of the student
+- Gender: male or female
+- Course: which course the student is studying
+- Marks: marks scored by the student
+- Attendance: attendance percentage of the student
+
+One surprising thing:
+I noticed that most students who have high marks also have high attendance, so attendance might be affecting their performance.
