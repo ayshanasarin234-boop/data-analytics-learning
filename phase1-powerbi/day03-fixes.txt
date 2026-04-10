@@ -1,0 +1,21 @@
+Problem 1: Duplicate Employee IDs
+Fix:
+I identified duplicate records based on the emp_id column, which is expected to be unique for each employee. I used the "Remove Duplicates" feature in Power Query to eliminate repeated entries, ensuring data integrity and uniqueness.
+
+
+Problem 2: Inconsistency in Phone Numbers (Negative Values)
+Fix:
+I observed invalid phone numbers such as negative values, which are not logically correct. I first changed the data type of the Phone column from numeric to text to preserve formatting. Then, I filtered out and removed invalid entries (negative values) to maintain data accuracy.
+
+
+Problem 3: Incorrect Data Types (Salary, Joining Date)
+Fix:
+Some columns were assigned incorrect data types. I corrected them as follows:
+* Salary was converted to Decimal Number to enable proper numerical analysis.
+* Joining Date was converted to Date format, and rows with invalid date values were removed using the "Remove Errors" option.
+  This ensured consistency and prevented calculation or formatting errors.
+
+
+Problem 4: Missing Values in Age Column
+Fix:
+The Age column contained missing (null) values. I handled this by replacing null values with the average age of the dataset. This method (mean imputation) helps maintain overall data distribution without significantly biasing the analysis.
