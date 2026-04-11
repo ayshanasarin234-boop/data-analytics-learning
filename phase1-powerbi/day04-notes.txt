@@ -1,0 +1,14 @@
+Power Query (Data Shaping)
+
+1. Date Column Split:
+   The Date column was split into Day, Month, and Year components to improve data clarity. This enables easier time-based analysis and better reporting.
+
+2. Filtering Data:
+   A filter was applied to the Remote Work column to remove all False values. This ensures the dataset focuses only on relevant records where remote work is applicable.
+
+3. created custom columns:
+   - Performance Bonus Column:
+   A custom column named "Performance Bonus" was created to calculate bonus values based on performance criteria. This adds meaningful insights for evaluating employee performance.
+
+   - Remote Work Bonus Column:
+   A custom column named "Remote Work Bonus" was created based on the Remote Work condition. This helps in identifying and analyzing benefits associated with remote employees.
