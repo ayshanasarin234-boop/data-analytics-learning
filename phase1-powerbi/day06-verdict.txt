@@ -1,0 +1,1 @@
+The bar chart makes it easier to compare values because the lengths of the bars clearly show the differences between regions. It allows quick and accurate comparison, especially between South, West, and North sales figures. In contrast, the pie chart is useful for proportions but makes it harder to precisely compare individual values.
