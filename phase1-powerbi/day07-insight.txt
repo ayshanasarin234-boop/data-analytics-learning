@@ -1,0 +1,9 @@
+Slicers & Interactivity:
+
+Using slicers in the dashboard helped me explore the dataset more effectively by filtering data based on different categories such as Region and Category. Instead of viewing all data at once, I was able to focus on specific segments and understand their performance clearly.
+
+One key insight I discovered is that certain regions contribute more to total sales compared to others. When I selected different regions using the slicer, I noticed clear differences in sales trends and quantity sold. This helped me identify high-performing and low-performing areas.
+
+Another insight was observed when filtering by category. Some product categories consistently generated higher sales, while others had lower contribution. This made it easier to understand which categories are more profitable.
+
+Overall, slicing improved my ability to compare data, identify patterns, and gain meaningful insights quickly without creating multiple reports.
