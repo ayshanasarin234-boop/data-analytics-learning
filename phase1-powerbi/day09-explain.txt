@@ -1,0 +1,1 @@
+The total sales are 1324K, but the Electronics sales are 1175K because the filtered measure includes only the Electronics category while the total includes all categories.
