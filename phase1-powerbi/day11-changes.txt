@@ -1,0 +1,13 @@
+1. Simplified the color scheme and improved contrast
+   I replaced the bright yellow background with a clean, dark blue theme and consistent color palette. This reduces visual noise and improves readability, allowing users to focus on the
+   data rather than being distracted by harsh or inconsistent colors.
+
+
+2. Replaced cluttered visuals with clearer chart types
+   I removed overcrowded visuals (like the dense pie chart and overly detailed line chart) and used simpler, more appropriate visuals such as bar charts, line charts, and KPI cards. This 
+   makes comparisons easier and helps users quickly understand key trends and insights.
+
+
+3. Improved layout and visual hierarchy
+   I organized the dashboard into structured sections with proper spacing, aligned elements, and clear headings. Key metrics (Total Sales, Total Orders) are placed at the top for quick 
+   visibility. This logical flow enhances user experience by guiding attention to the most important information first.
