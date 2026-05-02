@@ -1,0 +1,9 @@
+PYTHON VS POWER BI-COMPARISON
+
+1.In my experience, one thing that was easier to do in Power BI than in Python was creating visual dashboards. Power BI allows me to build charts and interactive reports using drag-and-drop features, which saves time and does not require writing code. It was very easy to connect the data and quickly create professional-looking visuals.
+
+2.On the other hand, one thing that was easier in Python than in Power BI was data cleaning and preprocessing. Using pandas, I could handle missing values, convert data types, filter data, and perform calculations much more efficiently. Python gave me more control over the data and allowed me to automate repetitive tasks.
+
+3.I personally enjoyed using Python more because it helped me understand what is happening behind the scenes. Writing code made me think more logically and improved my problem-solving skills.
+
+4.If I had to analyze data for a report to share with a teacher or manager, I would choose Power BI because it is better for presenting insights visually. The dashboards are interactive and easy to understand, which makes communication more effective.
